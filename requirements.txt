@@ -1,2 +1,3 @@
 snowflake-python-connector == 3.10.0
 requests3 ==  2.31.0
+boto3 == 1.4.8
